@@ -2,7 +2,7 @@
 
 ### What is Pro Controller X
 
-This is a (TBD if viable) project, attempting to make a Wii U Pro Controller, with the features of a Switch Pro Controller. Taking inspiration from Xenoblade Chronicles X (sometimes called Xenoblade Chronicles Cross), it is an attempt to "cross" the two controllers into one Pro Controller.
+This is a (TBD if viable) project, attempting to make a Wii U Pro Controller, with the (important) features of a Switch Pro Controller. Taking inspiration from Xenoblade Chronicles X (sometimes called Xenoblade Chronicles Cross), it is an attempt to "cross" the two controllers into one Pro Controller.
 
 ### Why Make this?
 
@@ -14,3 +14,9 @@ Planned Hardware:
 - OEM Wii U Pro Controller shell and buttons
 - 8Bitdo Lite 2 Controller as the brains
 - Custom PCB to translate the 8Bitdo Lite 2 into the shape of the Wii U Pro Controller PCB
+
+### Features
+- Gyro Aim!!! (The reason for the project)
+- Switch/PC Compatibility
+- D-Input compatibility
+- Vibration (TBD)
