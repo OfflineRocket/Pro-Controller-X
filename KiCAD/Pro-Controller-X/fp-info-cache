@@ -1,4 +1,4 @@
-23350550278577376
+23352243030785522
 A CustomLib
 CPAD
 
@@ -84672,6 +84672,13 @@ PowerSymbols
 2
 2
 ProControllerX
+MCU8BitDo
+
+
+0
+46
+4
+ProControllerX
 MountingHoles
 
 
@@ -84690,8 +84697,8 @@ Wii U Outline
 
 
 0
-12
-2
+58
+45
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
