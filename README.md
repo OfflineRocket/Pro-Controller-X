@@ -20,3 +20,10 @@ Planned Hardware:
 - Switch/PC Compatibility
 - D-Input compatibility
 - Vibration (TBD)
+
+### TODO:
+- All Components Placed (90%-ish done)
+- Traces Connected
+- Traces Routed
+- Finish Tracing from Scans (90%-ish done, mostly smaller inter-components not traced)
+- Joystick PCBs (need special Resistors for normal Joysticks to work)
