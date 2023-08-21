@@ -26,5 +26,5 @@ Planned Hardware:
 - Traces Connected
 - Traces Routed
 - Finish Tracing from Scans (90%-ish done, mostly smaller inter-components not traced)
-- ~~Joystick PCBs (need special Resistors for normal Joysticks to work)~~ Done (resistors to be added to main board
+- ~~Joystick PCBs (need special Resistors for normal Joysticks to work)~~ Done (resistors to be added to main board)
 - Antenna Tracing (needs to be accurate)
