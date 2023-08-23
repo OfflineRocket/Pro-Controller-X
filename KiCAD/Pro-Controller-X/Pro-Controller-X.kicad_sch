@@ -4551,7 +4551,7 @@
     (property "Value" "CONN_02PTH2" (at 373.38 102.87 0)
       (effects (font (size 1.143 1.143)))
     )
-    (property "Footprint" "1X02_BIG" (at 375.92 100.33 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 375.92 100.33 0)
       (effects (font (size 0.508 0.508)) hide)
     )
     (property "Datasheet" "" (at 375.92 107.95 0)
