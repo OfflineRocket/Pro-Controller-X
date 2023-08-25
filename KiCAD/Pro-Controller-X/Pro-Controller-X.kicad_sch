@@ -3543,7 +3543,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2977afa8-86a5-4255-83a3-394f01ae3182)
   )
-  (text "Presumably this circuit is the voltage regulator circuit\n- No info could be found on regulators\n- Bothr egulators appear to regulate to the same voltage\n- Likely divided so that the Rumble motor doesn't affect\n   the stability of the rest of the circuit"
+  (text "Presumably this circuit is the voltage regulator circuit\n- No info could be found on regulators\n- Unsure if regulators regulate to the same voltage (haven't tested)\n- Likely divided so that the Rumble motor doesn't affect\n   the stability of the rest of the circuit"
     (at 166.37 246.38 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 466f5e31-8886-4274-a775-389893c6023c)
