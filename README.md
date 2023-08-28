@@ -22,9 +22,9 @@ Planned Hardware:
 - Vibration (TBD)
 
 ### TODO:
-- ~~All Components Placed (90%-ish done)~~ All components should be placed
+- ~~All Components Placed~~ All components should be placed
 - ~~Traces Connected~~ Should be done (need to double check)
-- Traces Routed (95% ish done, only a few left)
-- ~~Finish Tracing from Scans (90%-ish done, mostly smaller inter-components not traced)~~ All components should be traced (need to double check)
-- ~~Joystick PCBs (need special Resistors for normal Joysticks to work)~~ Done (resistors to be added to main board)
-- ~~Antenna Tracing (needs to be accurate)~~ Antenna complete - impedance for pad needed
+- ~~Traces Routed~~ Should be routed, but need to double check
+- ~~Finish Tracing from Scans~~ All components should be traced (need to double check)
+- ~~Joystick PCBs~~ Done (resistors to be added to main board)
+- ~~Antenna Tracing~~ Antenna complete - impedance for pad needed - Seems to be correct compared to the 8BitDo
