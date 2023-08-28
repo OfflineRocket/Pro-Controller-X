@@ -6361,6 +6361,30 @@
     )
   )
 
+  (symbol (lib_id "DSBB:LogoRef") (at 448.31 273.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 7e3806fe-3878-4880-97a7-7dd0801c4b6c)
+    (property "Reference" "REF3" (at 458.47 272.415 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "LogoRef" (at 458.47 274.955 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "ProControllerX:ProControllerLogo" (at 448.31 273.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 448.31 273.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Pro-Controller-X"
+        (path "/40a7657d-c4d7-4ebc-b606-0c6932d6f433"
+          (reference "REF3") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:R_US") (at 191.77 72.39 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7f7e2273-56e2-4329-ae5b-9e1e7abacf9a)
