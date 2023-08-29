@@ -302,7 +302,7 @@
     (property "Sheetname" "")
     (path "/137de507-0d6e-44fd-8401-a6404c0e6772")
     (attr smd)
-    (fp_text reference "U1" (at 0 0.5 unlocked) (layer "B.SilkS")
+    (fp_text reference "U1" (at -2.7325 -1.467 unlocked) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3697e013-4c14-4529-88b6-cbfeed69cfdf)
     )
@@ -8004,7 +8004,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ce7b0553-896a-4d3e-80c3-a816d14bbe8d)
     )
-    (fp_text user "${REFERENCE}" (at 1.0125 0.351 90) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 2.7675 -1.967 90) (layer "F.Fab")
         (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp a7db2d9c-466a-4d3a-9708-e220ffebae91)
     )
@@ -8107,6 +8107,10 @@
       (net 5 "GND") (pinfunction "MH2") (pintype "input") (tstamp 8a1d2ed1-8f56-47d0-8c29-6f0c73630cfa))
     (pad "MH2" thru_hole circle (at 0.2525 6.403 90) (size 2.475 2.475) (drill 1.65) (layers "*.Cu" "*.Mask")
       (net 5 "GND") (pinfunction "MH2") (pintype "input") (tstamp 79183c4d-75d5-470e-b037-aa588f9a76ab))
+  )
+
+  (gr_text "Lego_Rocket" (at 143.5 81.5) (layer "B.SilkS") (tstamp 4d9a97ca-c735-49c8-bbce-8c06c15c5aa7)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom mirror))
   )
 
   (segment (start 137.04 81.75) (end 146.065 81.75) (width 0.5) (layer "B.Cu") (net 1) (tstamp 00d6e400-adea-4619-8216-4162551c05f8))
