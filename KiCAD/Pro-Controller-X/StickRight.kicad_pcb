@@ -302,7 +302,7 @@
     (property "Sheetname" "")
     (path "/137de507-0d6e-44fd-8401-a6404c0e6772")
     (attr smd)
-    (fp_text reference "U1" (at 0 0.5 unlocked) (layer "B.SilkS")
+    (fp_text reference "U1" (at -2.7325 -1.467 unlocked) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3697e013-4c14-4529-88b6-cbfeed69cfdf)
     )
@@ -8004,7 +8004,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ce7b0553-896a-4d3e-80c3-a816d14bbe8d)
     )
-    (fp_text user "${REFERENCE}" (at 1.0125 0.351 90) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 2.7675 -1.967 90) (layer "F.Fab")
         (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp a7db2d9c-466a-4d3a-9708-e220ffebae91)
     )
@@ -8109,6 +8109,7 @@
       (net 5 "GND") (pinfunction "MH2") (pintype "input") (tstamp 79183c4d-75d5-470e-b037-aa588f9a76ab))
   )
 
+<<<<<<< HEAD
   (segment (start 141.015 89.16) (end 141.015 81.485) (width 0.5) (layer "B.Cu") (net 1) (tstamp 12709e12-5107-4b18-acd5-743e9d223301))
   (segment (start 145.9 92.2) (end 147.275 93.575) (width 0.5) (layer "B.Cu") (net 1) (tstamp 4bd9fecf-680c-4216-8067-5b9bbdee75b2))
   (segment (start 147.275 93.575) (end 147.275 96.625) (width 0.5) (layer "B.Cu") (net 1) (tstamp 53397feb-c551-49c1-a20f-2e65af4d8825))
@@ -8116,6 +8117,18 @@
   (segment (start 144.57 77.93) (end 147.245 77.93) (width 0.5) (layer "B.Cu") (net 1) (tstamp 75586f3e-978e-424c-abf6-68cd5a0a2d8c))
   (segment (start 142 92.2) (end 145.9 92.2) (width 0.5) (layer "B.Cu") (net 1) (tstamp 7cc213e8-6371-49d8-bbde-8de781af6a6b))
   (segment (start 141.015 89.16) (end 141.015 91.215) (width 0.5) (layer "B.Cu") (net 1) (tstamp ace3cb75-7a57-4fc1-9e04-8ae403ca2225))
+=======
+  (gr_text "Lego_Rocket" (at 143.5 81.5) (layer "B.SilkS") (tstamp 4d9a97ca-c735-49c8-bbce-8c06c15c5aa7)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom mirror))
+  )
+
+  (segment (start 137.04 81.75) (end 146.065 81.75) (width 0.5) (layer "B.Cu") (net 1) (tstamp 00d6e400-adea-4619-8216-4162551c05f8))
+  (segment (start 147.275 96.625) (end 147.275 82.96) (width 0.5) (layer "B.Cu") (net 1) (tstamp 059dfb48-3ed0-464a-9939-1d7e8e2ac378))
+  (segment (start 146.065 81.75) (end 147.245 82.93) (width 0.5) (layer "B.Cu") (net 1) (tstamp 38409247-4a70-4614-acb6-e6c6cbdadf06))
+  (segment (start 136.015 82.775) (end 137.04 81.75) (width 0.5) (layer "B.Cu") (net 1) (tstamp 494447c0-8d76-4a80-a454-e90be77b9c22))
+  (segment (start 136.015 89.16) (end 136.015 82.775) (width 0.5) (layer "B.Cu") (net 1) (tstamp 758e53ef-3f5b-46d2-ae3f-f02b21e6f8e0))
+  (segment (start 147.275 82.96) (end 147.245 82.93) (width 0.5) (layer "B.Cu") (net 1) (tstamp 88a59cb4-197a-4f7b-a975-80add593c7ad))
+>>>>>>> 87ca21cfa2adb8905f31567a3f88842ce62bd18f
   (segment (start 147.245 96.435) (end 147.135 96.545) (width 0.5) (layer "B.Cu") (net 1) (tstamp c471af0f-8940-4805-b218-b890a54e9b55))
   (segment (start 141.015 91.215) (end 142 92.2) (width 0.5) (layer "B.Cu") (net 1) (tstamp cb62cd8d-514a-4f45-af35-4462b952d471))
   (segment (start 144.75 81.06) (end 145.38 80.43) (width 0.5) (layer "F.Cu") (net 2) (tstamp 4242f2db-0383-4dc2-b1f9-c9e60e9940fc))
